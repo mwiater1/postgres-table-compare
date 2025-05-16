@@ -1,3 +1,9 @@
 spring:
   application:
     name: postgres-table-compare
+#compare:
+#  tables:
+#    - sourceTable: test_users
+#      sourceSchema: public
+#      targetTable: test_users
+#      targetSchema: public
